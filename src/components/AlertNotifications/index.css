@@ -1,0 +1,66 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.heading {
+  font-family: 'Roboto';
+}
+
+.container-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 800px;
+}
+
+.i-card-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #2dca73;
+}
+
+.container-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 600px;
+}
+
+.icon {
+  margin-right: 15px;
+}
+
+.p-1 {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #64748b;
+  padding-left: 40px;
+  margin: 25px;
+  padding-right: 20px;
+}
+
+.an-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.i-card-2 {
+  color: #ff0b37;
+}
+
+.i-card-3 {
+  color: #ffb800;
+}
+
+.i-card-4 {
+  color: #0f81e0;
+}
